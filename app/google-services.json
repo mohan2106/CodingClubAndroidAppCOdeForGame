@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "920803302216",
+    "firebase_url": "https://codingclubandroidappcodeforgam.firebaseio.com",
+    "project_id": "codingclubandroidappcodeforgam",
+    "storage_bucket": "codingclubandroidappcodeforgam.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:920803302216:android:da550832a08f0fe2",
+        "android_client_info": {
+          "package_name": "com.example.codingclubandroidappcodeforgame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "920803302216-1nkf4495h4oves57jpdqlov1dsr1rso2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.codingclubandroidappcodeforgame",
+            "certificate_hash": "3838d55a8ed9aa89f8a51a997a8450a91964a716"
+          }
+        },
+        {
+          "client_id": "920803302216-fd5pvav7omop4slod1kpectkjt8hufqj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqwq93wgIHFHM6wdFd1_IqNi_jp3R_vLk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "920803302216-fd5pvav7omop4slod1kpectkjt8hufqj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
